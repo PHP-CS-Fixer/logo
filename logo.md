@@ -1,2 +1,2 @@
-The logo is © 2010-2014 Sensio Labs.
+The logo is © 2010-2022 Sensio Labs.
 
